@@ -1,6 +1,3 @@
-# Jose Galarza
-# Student ID: 000930310
-
 import datetime
 from builtins import ValueError
 from HashTable import HashTable
